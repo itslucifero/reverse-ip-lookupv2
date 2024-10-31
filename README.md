@@ -20,7 +20,7 @@
    ```bash
    git clone https://github.com/itslucifero/reverse-ip-lookupv2.git
    cd reverse-ip-lookup-premium
-```
+   ```
 
 Run the tool and let it handle the setup:
 
