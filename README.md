@@ -34,11 +34,11 @@ This is a premium tool. To unlock full access, send any amount of BTC to the fol
 
 **BTC Address: bc1q5s23s92rudk8zq8hzdwvxmwgquj3pg56nvcpxf**
 
-    ## 📢 Once you've sent the BTC, reach out on Telegram for access:
+   ## 📢 Once you've sent the BTC, reach out on Telegram for access:
 
-[@itslucifero](https://t.me/itslucifero)<br>
-## OR
-[@neuraflex](https://t.me/neuraflex)
+   [@itslucifero](https://t.me/itslucifero)<br>
+   ## OR
+   [@neuraflex](https://t.me/neuraflex)
 
 ## Note
 
@@ -48,6 +48,6 @@ After confirmation, you’ll receive the access key to unleash the full power of
 
 This script takes care of all dependencies for you, installing them on the first run! Just make sure you’re running it with Python 3.10+.
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool is intended solely for educational and authorized usage. Misuse of the tool for unauthorized purposes is strictly prohibited.
