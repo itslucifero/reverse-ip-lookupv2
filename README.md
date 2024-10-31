@@ -18,7 +18,7 @@
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reverse-ip-lookup-premium.git
+   git clone https://github.com/itslucifero/reverse-ip-lookupv2.git
    cd reverse-ip-lookup-premium
 ```
 
