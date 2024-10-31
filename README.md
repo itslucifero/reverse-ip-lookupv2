@@ -36,8 +36,9 @@ This is a premium tool. To unlock full access, send any amount of BTC to the fol
 
     ## 📢 Once you've sent the BTC, reach out on Telegram for access:
 
-[itslucifero](https://t.me/itslucifero)
-[neuraflex](https://t.me/neuraflex)
+[@itslucifero](https://t.me/itslucifero)<br>
+## OR
+[@neuraflex](https://t.me/neuraflex)
 
 ## Note
 
